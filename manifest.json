@@ -1,6 +1,6 @@
 {
     "name": "LethalLikkertjes",
-    "version_number": "1.1.0",
+    "version_number": "1.2.0",
     "website_url": "https://github.com/RedFirebreak/lethalCompanyModpack",
     "description": "GLHF, deze pack is omdat iedereen te lui was om 1 voor 1 alle mods te downloaden. Dan maar zo :)",
     "dependencies": [
@@ -37,6 +37,7 @@
         "Blorb-WeatherMultipliers-1.0.0",
         "NotAtomicBomb-TerminalApi-1.4.0",
         "NotAtomicBomb-Terminal_Clock-1.0.5",
-        "Midge-PushCompany-1.2.0"
+        "Midge-PushCompany-1.2.0",
+        "Nips-Brutal_Company_Plus-3.3.1"
 ]
 }
