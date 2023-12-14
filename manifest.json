@@ -1,8 +1,8 @@
 {
     "name": "LethalLikkertjes",
-    "version_number": "1.2.1",
+    "version_number": "1.2.2",
     "website_url": "https://github.com/RedFirebreak/lethalCompanyModpack",
-    "description": "GLHF, deze pack is omdat iedereen te lui was om 1 voor 1 alle mods te downloaden. Dan maar zo :)",
+    "description": "GLHF, This is a pack full of memes, QoL and some additions to better fit our playstyle.",
     "dependencies": [
         "2018-LC_API-2.2.0",
         "BepInEx-BepInExPack-5.4.2100",
