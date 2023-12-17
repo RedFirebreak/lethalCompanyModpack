@@ -1,3 +1,6 @@
+# Version 1.2.3
+- Updated mods to latest
+
 # Version 1.2.2
 - Flipped changelog to be newest on top
 - Changed readme and description
