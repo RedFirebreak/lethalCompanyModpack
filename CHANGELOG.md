@@ -1,3 +1,6 @@
+# Vresion 1.2.4
+- Small config tweaks. More stamina and less spawnrate chance
+
 # Version 1.2.3
 - Updated mods to latest
 
@@ -12,6 +15,6 @@
 # Version 1.2.0
 - Added config files for the mods
 - Added Brutal Company + mod
-- 
+
 # Version 1.1.0
 - Initial release of the modpack.
