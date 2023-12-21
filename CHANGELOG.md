@@ -1,4 +1,8 @@
-# Vresion 1.2.4
+# Version 1.2.5
+- Updated mods to latest
+- Added some new meme mods :)
+
+# Version 1.2.4
 - Small config tweaks. More stamina and less spawnrate chance
 
 # Version 1.2.3
