@@ -1,3 +1,6 @@
+# Version 1.3.0
+- Added more mods, this pack is getting too full.
+
 # Version 1.2.5
 - Updated mods to latest
 - Added some new meme mods :)
