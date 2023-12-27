@@ -1,3 +1,6 @@
+# Version 1.3.1
+- Removed some mods :)
+
 # Version 1.3.0
 - Added more mods, this pack is getting too full.
 

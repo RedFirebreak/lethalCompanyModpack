@@ -1,6 +1,6 @@
 {
     "name": "LethalLikkertjes",
-    "version_number": "1.3.0",
+    "version_number": "1.3.1",
     "website_url": "https://github.com/RedFirebreak/lethalCompanyModpack",
     "description": "GLHF, This is a pack full of memes, QoL and some additions to better fit our playstyle.",
     "dependencies": [
@@ -34,7 +34,6 @@
         "Suskitech-AlwaysHearActiveWalkies-1.4.3",
         "NotAtomicBomb-TerminalApi-1.4.0",
         "NotAtomicBomb-Terminal_Clock-1.0.5",
-        "Nips-Brutal_Company_Plus-3.5.1",
         "Pooble-LCBetterSaves-1.6.1",
         "KoderTeh-Boombox_Controller-1.1.2",
         "Blorb-WeatherMultipliers-1.1.0",
@@ -44,12 +43,11 @@
         "Backrooms-Backrooms-0.1.1",
         "Rattenbonkers-TVLoader-1.1.1",
         "bonehead-Family_Guy_TV-1.0.2",
-        "QuokkaCrew-MoreMonsters-1.2.0",
         "RedaOps-FunMines-1.2.0",
         "FlipMods-MoreBlood-1.0.2",
         "femboytv-LethalPosters-1.2.0",
         "Evaisa-LethalThings-0.8.8",
         "MegaPiggy-BuyableShotgun-1.0.0",
         "MegaPiggy-BuyableShotgunShells-1.0.1"
-        ]
+    ]
 }
