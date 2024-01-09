@@ -1,3 +1,12 @@
+# Version 1.4.0
+- More tweaks to enemy difficulty
+- Mod updates
+- More memes, more tweaks, more fun
+
+# Version 1.3.2
+- Sped up time on moon
+- Turned off mimic easy mode
+
 # Version 1.3.1
 - Removed some mods :)
 
