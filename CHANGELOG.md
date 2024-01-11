@@ -1,3 +1,9 @@
+# Version 1.4.1
+- Removed some mods for stability
+- Added some more meme mods
+- Nerfed mikestweaks
+- Removed brutal company... again.
+
 # Version 1.4.0
 - More tweaks to enemy difficulty
 - Mod updates
