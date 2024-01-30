@@ -1,3 +1,7 @@
+# Version 1.4.2
+- Updated mods to latest
+- Added MaskedEnemyOverhaul
+
 # Version 1.4.1
 - Removed some mods for stability
 - Added some more meme mods
